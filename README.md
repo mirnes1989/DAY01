@@ -1,2 +1,2 @@
 # DAY01
-DAY01 - Paragon - Mirnes Hatic
+This is my very first assignment!
